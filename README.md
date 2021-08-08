@@ -63,8 +63,8 @@ There is a summary of the t-test results across **all manufacturing lots**
 ### Metric to test
  - To narrow down our test, we should evaluate MechaCar's carrying capacity, in cubic inches, in comparison to various competitors' vehicles.
 ### Null and Alternate Hypothesis
- - H<sub>0</sub>: MechaCar prototypes' average carrying capacity is similar to competitor's vehicles in the same vehicle class
- - H<sub>a</sub>: MechaCar prototypes' average carrying capacity is statistically above or below that of competitor vehicles.
+ - MechaCar prototypes' average carrying capacity is similar to competitor's vehicles in the same vehicle class
+ - MechaCar prototypes' average carrying capacity is statistically above or below that of competitor vehicles.
 ### Statistical Test Used
  - The best statistical test for this would be two-sample t-tests.
 ### What data is needed
