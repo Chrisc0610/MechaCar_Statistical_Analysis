@@ -3,7 +3,7 @@
 ## Linear Regression to Predict MPG
 
 **Statistical Summary:** 
-![d1]/Resources/Images/linear_regression.PNG)
+- ![linear_regression.PNG](/Resources/Images/linear_regression.PNG)
 
 From the above output we can see that:
 
@@ -24,8 +24,8 @@ the **vehicle weight**, **spoiler angle**, and **All Wheel Drive** (AWD) have p-
 # Deliverable 2:  
 
 ## Summary Statistics on Suspension Coils
+- ![summary_statistics.PNG](/Resources/Images/summary_statistics.PNG)
 
-![d2]/Resources/Images/summary_statistics.PNG)
 
  - When looking at the entire population of the production lot, the variance of the coils is 62.29 PSI, which is well within the 100 PSI variance requirement.  
 
@@ -40,7 +40,7 @@ the **vehicle weight**, **spoiler angle**, and **All Wheel Drive** (AWD) have p-
 ## t-Tests on Suspension Coils
 
 There is a summary of the t-test results across **all manufacturing lots**
-![d3]/Resources/Images/Total_summary.PNG)
+- ![Total_summary.PNG](/Resources/Images/Total_summary.PNG)
 
  - From here we can see the **true mean of the sample is 1498.78**, which we also saw in the summary statistics above.  
  - With a **p-Value of 0.06**, which is higher than the common significance level of 0.05, 
@@ -51,7 +51,7 @@ There is a summary of the t-test results across **all manufacturing lots**
  - Lot 3 is a different scenario. Here **the sample mean is 1496.14** and the **p-Value is 0.04**, which is lower than the common significance level of 0.05.  
  - All indicating to **reject the null hypothesis** 
 
-![d4]/Resources/Images/lot_summary.PNG)
+- ![lot_summary.PNG](/Resources/Images/lot_summary.PNG)
 
  - The process needs to be checked for system fails and the suspension coils from this lot need to be inspected to remove those not meeting quality criteria.
 
